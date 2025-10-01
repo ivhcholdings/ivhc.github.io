@@ -1,6 +1,6 @@
 # IVHC Innovation
 
-A modern, minimalist landing page for IVHC Innovation - a technology investment firm focused on investing in cutting-edge technology companies that are shaping the future.
+IVHC Innovation is a technology investment firm with a singular focus: identifying and backing the companies building tomorrow's most transformative technologies. We invest in visionaries who aren't just predicting the future, they're creating it.
 
 ## 🌐 Live Site
 
